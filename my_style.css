@@ -1,0 +1,19 @@
+h1 {
+	font-size: 275%; 
+} 
+
+body {
+	
+	background-color: #5F9EA0;
+	font-family: "Arial" 
+} 
+
+.summer {
+	color: orange;
+}
+
+#seasons {
+
+	text-transform: uppercase;
+	text-align: center;
+}
